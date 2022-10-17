@@ -1,7 +1,7 @@
 </br>
 
-### HumanaMaysHealthcareCaseCompetition2022 :
-#### Predicting Housing Insecurity Instances
+#### Humana-Mays Healthcare Case Competition 2022 :
+### Predicting Housing Insecurity Instances
 
 </br>
 </br>
